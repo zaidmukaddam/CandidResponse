@@ -22,7 +22,7 @@ export default function Home() {
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:site" content="@zaidmukddam" />
                 <meta name="twitter:title" content="CandidResponse, a GPT-3 Prompt-Completion client" />
-                <meta name="twitter:description" content="" />
+                <meta name="twitter:description" content="a GPT-3 Prompt-Completion client built with Next.js and OpenAI" />
                 <meta name="twitter:image" content="/candidresponse.png" />
                 <link rel="icon" href="/ico.svg" />
             </Head>
